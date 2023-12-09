@@ -161,3 +161,4 @@ cython_debug/
 
 # AoC inputs
 data/
+test/
